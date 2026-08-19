@@ -10,4 +10,4 @@
 - [x] Add deterministic tests for supported remediation, unsupported findings, mutation guards, analysis regression, and PR artifact rendering.
 - [x] Add strict package quality gates, CI, distribution validation, ADRs, security documentation, and examples.
 - [x] Verify all rule IDs and control IDs in remediation policies match Basalt Core and Basalt IaC contracts.
-- [ ] Commit and push basalt-agent to GitHub.
+- [x] Commit and push basalt-agent to GitHub.
